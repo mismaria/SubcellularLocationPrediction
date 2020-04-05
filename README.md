@@ -18,7 +18,7 @@ Training and cross-validation is performed on 4 files:
 The final testing is performed on:
     1) 'blind.fasta.txt'
 
-Each file includes proteins sequences in fastaformat.
+Each file includes proteins sequences in fasta format.
 
 
 ## Further testing
