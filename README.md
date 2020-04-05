@@ -2,7 +2,7 @@
 
 ## Overview
 An exploration of different models, concluding to an NuSVC (Nu-Support Vector Classification) model with optimised parameter nu=0.18, and then fitting it to an OneVsRestClassifier. 
-The model was trained on a dataset which counts with 9222 proteins. 
+The model was trained on a dataset which counts 9222 proteins. 
 
 ## Author
 Maria Miscouridou, UCL
